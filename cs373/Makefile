@@ -1,4 +1,4 @@
-all: assignment1
+all: shapiro_p1
 
-eshapiro_p1: assignment1.cpp
-	g++ -o assignment1 assignment1.cpp
+eshapiro_p1: shapiro_p1.cpp
+	g++ -o shapiro_p1 shapiro_p1.cpp
